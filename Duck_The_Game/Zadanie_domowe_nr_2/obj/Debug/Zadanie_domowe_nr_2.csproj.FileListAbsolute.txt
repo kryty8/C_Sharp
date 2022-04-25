@@ -1,0 +1,30 @@
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\bin\Debug\Zadanie_domowe_nr_2.exe.config
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\bin\Debug\Zadanie_domowe_nr_2.exe
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\bin\Debug\Zadanie_domowe_nr_2.pdb
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csprojAssemblyReference.cache
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.Form1.resources
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.Properties.Resources.resources
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csproj.GenerateResource.cache
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csproj.CoreCompileInputs.cache
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.exe
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.pdb
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\bin\Debug\Interop.WMPLib.dll
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\bin\Debug\AxInterop.WMPLib.dll
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Interop.WMPLib.dll
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\AxInterop.WMPLib.dll
+D:\Te twory z Visuala\Zadanie_domowe_nr_2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csproj.ResolveComReference.cache
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\bin\Debug\Zadanie_domowe_nr_2.exe.config
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\bin\Debug\Zadanie_domowe_nr_2.exe
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\bin\Debug\Zadanie_domowe_nr_2.pdb
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\bin\Debug\Interop.WMPLib.dll
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\bin\Debug\AxInterop.WMPLib.dll
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csproj.AssemblyReference.cache
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Interop.WMPLib.dll
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\AxInterop.WMPLib.dll
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csproj.ResolveComReference.cache
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.Form1.resources
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.Properties.Resources.resources
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csproj.GenerateResource.cache
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.csproj.CoreCompileInputs.cache
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.exe
+D:\!A_STUDIA_{Pierdolone\# 4 SEMESTR\Moje materiały\Informatyka II\Laborki\Zajęcia 2\Zadanie_domowe_nr_2\obj\Debug\Zadanie_domowe_nr_2.pdb
